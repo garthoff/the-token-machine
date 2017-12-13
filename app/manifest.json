@@ -32,13 +32,13 @@
       "type": "image/png"
     },
     {
-      "src": "icon-192x192.png",
-      "sizes": "192x192",
+      "src": "icon-196x196.png",
+      "sizes": "196x196",
       "type": "image/png"
     },
     {
-      "src": "icon-384x384.png",
-      "sizes": "384x384",
+      "src": "icon-310x310.png",
+      "sizes": "310x310",
       "type": "image/png"
     },
     {
